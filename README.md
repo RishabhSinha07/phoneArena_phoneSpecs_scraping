@@ -8,7 +8,8 @@
 - File Handling knowledge
 
 > Flow
-This Project has two parts
+
+<h3>This Project has two parts</h3>
 - Scraping for the individual links to all the pages of each devices on the website
 - Using the scraped links to all the devices scrape information of each devices such as "Device name", "Resolution", etc
 
