@@ -1,7 +1,8 @@
 # Scraping Website with Beautifil Soup 
 > This project is for learning purpose only.
 
-# For this project you require:
+<h3>For this project you require:</h3>
+
 - Python
 - Beautifulsoup Library
 - Requests Library
